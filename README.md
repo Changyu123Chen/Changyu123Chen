@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Changyu Chen
 - 👀 I’m interested in programming, rubik's cube, and math
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m a student of Computer Engineering.
 - 📫 c536chen@uwaterloo.ca
 - 🏫 University of Waterloo
 
